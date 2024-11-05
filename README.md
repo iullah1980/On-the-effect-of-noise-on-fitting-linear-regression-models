@@ -1,3 +1,5 @@
+On the effect of noise on fitting linear regression models
+
 This zipped folder contains a collection of R script files designed to enable the exact reproduction of the analyses and figures presented in both the main text and supplementary materials of our study. Detailed below is a guide to which figure each script reproduces:
 • Fig_1_3_S2.R: Generates Figure 1, Figure 3, and Figure S2.
 • Fig_2.R: This script produces Figure 2. 
